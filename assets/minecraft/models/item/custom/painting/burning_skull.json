@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "painting/burning_skull",
+		"particle": "painting/burning_skull"
+	},
+	"elements": [
+		{
+			"name": "pigscene_0",
+			"from": [-8, 0, -8],
+			"to": [24, 0.5, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 16, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 0.25], "texture": "#0"},
+				"east": {"uv": [15.75, 0, 16, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 15.75, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.25, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -1, 0]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 8.05, 35.4],
+			"scale": [3.2, 3.2, 3.2]
+		}
+	},
+	"groups": [
+		{
+			"name": "pigscene",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

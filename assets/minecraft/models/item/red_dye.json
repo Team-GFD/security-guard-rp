@@ -1,0 +1,74 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/red_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/custom/empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/custom/armor_diamond"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/custom/bedrock_model"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/custom/bone_stand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/custom/dino_print"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/custom/gold_egg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/custom/rare_book"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/custom/ruby_jewels"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/custom/sword_helmet"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "block/brain_coral_block"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/custom/dragon_egg"
+        }
+    ]
+}

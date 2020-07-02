@@ -1,0 +1,6 @@
+{
+    "parent": "item/no_hand",
+    "textures": {
+        "layer0": "block/cyan_stained_glass"
+    }
+}

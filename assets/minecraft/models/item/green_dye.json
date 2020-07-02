@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/green_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/custom/painting/pigscene"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/custom/painting/burning_skull"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/custom/painting/fighters"
+        }
+    ]
+}
