@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "block/escape_door"
+		"1": "block/custom/escape_door"
 	},
 	"elements": [
 		{
