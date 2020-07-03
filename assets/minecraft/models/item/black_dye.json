@@ -1,108 +1,32 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "item/generated",
 	"textures": {
-		"0": "block/gray_wool",
-		"particle": "block/gray_wool"
+		"layer0": "item/black_dye",
 	},
-	"elements": [
+	"overrides": [
 		{
-			"from": [-16, -1, 7.5],
-			"to": [32, 2, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "block/custom/guard_door"
 		},
 		{
-			"from": [-16, -7, 7.5],
-			"to": [32, -4, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "block/custom/escape_door_closed"
 		},
 		{
-			"from": [-16, -13, 7.5],
-			"to": [32, -10, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -5, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "block/custom/escape_door_left"
 		},
 		{
-			"from": [-16, 5, 7.5],
-			"to": [32, 8, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
-		},
-		{
-			"from": [-16, 11, 7.5],
-			"to": [32, 14, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 19, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
-		},
-		{
-			"from": [-16, 17, 7.5],
-			"to": [32, 20, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 25, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
-		},
-		{
-			"from": [-16, 23, 7.5],
-			"to": [32, 26, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 31, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
-		},
-		{
-			"from": [-16, 29, 7.5],
-			"to": [32, 32, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 37, 16]},
-			"faces": {
-				"north": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"south": {"uv": [0, 2, 16, 5], "texture": "#0"},
-				"up": {"uv": [0, 1, 16, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
-			}
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "block/custom/escape_door_right"
 		}
-	],
-	"display": {
-		"ground": {
-			"scale": [0.2, 0.2, 0.2]
-		},
-		"gui": {
-			"scale": [0.33, 0.33, 0.33]
-		},
-		"head": {
-			"scale": [1.6, 1.6, 1.6]
-		}
-	}
+	]
 }
