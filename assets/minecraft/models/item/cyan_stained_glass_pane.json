@@ -2,5 +2,13 @@
     "parent": "item/no_hand",
     "textures": {
         "layer0": "block/cyan_stained_glass"
-    }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/custom/guard_icon"
+        }
+    ]
 }
