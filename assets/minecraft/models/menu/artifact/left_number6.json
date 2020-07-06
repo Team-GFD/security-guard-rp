@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "menu/element",
+	"texture_size": [1024, 1536],
+	"textures": {
+		"0": "menu/screen0/artifact_number_6",
+		"particle": "menu/screen0/artifact_number_6"
+	},
+	"elements": [
+		{
+			"from": [8, 4, 8],
+			"to": [24, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 24, 16]},
+			"faces": {
+				"north": {"uv": [0, 7, 8, 9.33333], "texture": "#0"}
+			}
+		}
+	]
+}

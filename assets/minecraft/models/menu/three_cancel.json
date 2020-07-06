@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "menu/element",
+	"texture_size": [1536, 2560],
+	"textures": {
+		"0": "menu/screen0/3_cancel",
+		"particle": "menu/screen0/3_cancel"
+	},
+	"elements": [
+		{
+			"from": [-6.5, -16, 8],
+			"to": [22.3, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 20.8, -12.85],
+			"scale": [2.66667, 2.66667, 2.66667]
+		}
+	}
+}
