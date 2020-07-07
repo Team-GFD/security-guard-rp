@@ -261,6 +261,36 @@
         "custom_model_data": 43
       },
       "model": "menu/artifact/all"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "menu/aicount_title"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "menu/aimode_title"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "menu/aimode_easy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "menu/aimode_normal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "menu/aimode_hard"
     }
   ]
 }
