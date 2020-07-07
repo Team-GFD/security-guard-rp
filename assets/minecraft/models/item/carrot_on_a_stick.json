@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "item/handheld",
     "textures": {
         "layer0": "item/carrot_on_a_stick"
     },
@@ -9,6 +9,12 @@
                 "custom_model_data": 1
             },
             "model": "item/custom/camera_tablet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/no_hand"
         }
     ]
 }
