@@ -291,6 +291,30 @@
         "custom_model_data": 48
       },
       "model": "menu/aimode_hard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "menu/thief_tutorial_title"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "menu/guard_tutorial_title"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "menu/go_button"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "menu/go_button_hover"
     }
   ]
 }

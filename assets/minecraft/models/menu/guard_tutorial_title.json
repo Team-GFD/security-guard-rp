@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "menu/element",
+	"texture_size": [1024, 1024],
+	"textures": {
+		"0": "menu/screen0/guard_tutorial_hover",
+		"particle": "menu/screen0/guard_tutorial_hover"
+	},
+	"elements": [
+		{
+			"from": [-8, 18, 8],
+			"to": [24, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 24, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 7], "texture": "#0"}
+			}
+		}
+	]
+}
