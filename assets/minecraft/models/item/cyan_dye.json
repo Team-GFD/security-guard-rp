@@ -315,6 +315,18 @@
         "custom_model_data": 52
       },
       "model": "menu/go_button_hover"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "menu/return"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "menu/return_hover"
     }
   ]
 }
