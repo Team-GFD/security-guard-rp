@@ -1,3 +1,5 @@
 {
-	"credit": "Made with Blockbench"
+	"textures": {
+		"particle": "block/gray_wool"
+	}
 }
