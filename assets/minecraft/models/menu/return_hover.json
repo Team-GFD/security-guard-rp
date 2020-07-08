@@ -8,9 +8,9 @@
 	},
 	"elements": [
 		{
-			"from": [-8, 3, 8],
-			"to": [24, 11, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 22, 16]},
+			"from": [-8, 4, 8],
+			"to": [24, 12, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 23, 16]},
 			"faces": {
 				"north": {"uv": [0, 9.5, 16, 13.5], "texture": "#0"}
 			}
