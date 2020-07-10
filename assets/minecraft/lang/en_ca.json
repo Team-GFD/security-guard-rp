@@ -2,5 +2,6 @@
     "death.attack.mob": "%1$s was captured by %2$s",
     "death.attack.mob.item": "%1$s was captured by %2$s using %3$s",
     "death.attack.player": "%1$s was captured by %2$s",
-    "death.attack.player.item": "%1$s was captured by %2$s using %3$s"
+    "death.attack.player.item": "%1$s was captured by %2$s using %3$s",
+	"container.crafting": ""
 }
