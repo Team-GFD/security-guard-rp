@@ -1,0 +1,32 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "block/custom/credits/sheepe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "block/custom/credits/internet"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "block/custom/credits/chicken"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "block/custom/credits/denniss"
+		}
+	]
+}
