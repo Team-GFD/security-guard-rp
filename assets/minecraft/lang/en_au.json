@@ -3,5 +3,8 @@
     "death.attack.mob.item": "%1$s was captured by %2$s using %3$s",
     "death.attack.player": "%1$s was captured by %2$s",
     "death.attack.player.item": "%1$s was captured by %2$s using %3$s",
-	"container.crafting": ""
+	"container.crafting": "",
+    "gui.recipebook.search_hint": "",
+    "gui.recipebook.toggleRecipes.all": "",
+    "gui.recipebook.toggleRecipes.craftable": ""
 }

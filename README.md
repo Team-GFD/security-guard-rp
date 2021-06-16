@@ -1,5 +1,5 @@
-# security-guard-rp
+# midnight-heist-rp
 
-Security Guard Resource Pack
+Midnight Heist Resource Pack
 
 Download the ZIP file and insert it into your resourcepacks folder.
